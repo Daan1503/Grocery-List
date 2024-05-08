@@ -1,3 +1,5 @@
 This is my main grocery list
 1. Milk
 2. Eggs
+3. Beer
+5. Cheese
